@@ -20,3 +20,6 @@ https://hmkcode.com/ai/backpropagation-step-by-step/?fbclid=IwAR2EW2fi2Kb8-V008A
 https://www.hackerrank.com/challenges/reduced-string/problem
 
 https://codeforces.com/problemset/problem/190/C
+
+### String
+https://www.hackerrank.com/challenges/two-characters/problem
