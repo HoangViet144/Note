@@ -18,6 +18,9 @@ https://hmkcode.com/ai/backpropagation-step-by-step/?fbclid=IwAR2EW2fi2Kb8-V008A
 ### Long sort term memory
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
+### Deep learning course for beginner
+https://www.youtube.com/watch?v=j5HxIJoOJms&list=PLMm4sOMuA2QI5x_0KlNT3LuKDi6-ByboB
+
 ## Problem solving, data structure and algorithm
 ### Stack
 https://www.hackerrank.com/challenges/reduced-string/problem
