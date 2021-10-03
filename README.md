@@ -15,6 +15,9 @@ https://www.varsitytutors.com/hotmath/hotmath_help/topics/quadratic-regression
 ### Back propagation
 https://hmkcode.com/ai/backpropagation-step-by-step/?fbclid=IwAR2EW2fi2Kb8-V008AkKKFMWwBsRw7Ez3DRWeOPXrJpMYhp3ZQgIbVm2FY0
 
+### Long sort term memory
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 ## Problem solving, data structure and algorithm
 ### Stack
 https://www.hackerrank.com/challenges/reduced-string/problem
